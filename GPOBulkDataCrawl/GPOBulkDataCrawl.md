@@ -1,0 +1,1 @@
+This folder contains the python code to crawl the US Government Publishing Office (GPO) bulk data repository of introduced bills, resolutions, joint resolutions from the US House of Representatives and US Senate.
